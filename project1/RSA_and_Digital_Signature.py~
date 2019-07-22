@@ -6,7 +6,6 @@ import os
 
 from rsa import *
 from part1 import *
-from part2 import *
 
 def part_two_of_project():
     print(" Part two started ")
